@@ -22,12 +22,17 @@ Program dibuat dengan 2 kelas yaitu:
 ## Dokumentasi
 
 - Tampilan GUI
+
   ![tampilan gui](/Screenshot/desainGUI.png)
 - Menambahkan data
+
   ![Add](/Screenshot/Add.png)
 - Update data
+
   ![Update](/Screenshot/Update.png)
 - Delete Confirm
+
   ![DeleteConf](/Screenshot/DeleteConfirm.png)
 - Delete
+
   ![Delete](/Screenshot/Delete.png)
